@@ -1,55 +1,67 @@
 # Hi there, I'm Vishnu P R 👋
 
-### 👨‍💻 Inquisitive IT Graduate | Aspiring Software Engineer
-[cite_start]I am a B.Tech Information Technology graduate from Government Engineering College Palakkad[cite: 27, 28]. [cite_start]I am passionate about building secure systems, exploring machine learning, and developing web applications[cite: 12, 14, 33]. [cite_start]I am currently looking for an opportunity to contribute to the corporate world[cite: 2].
+### 👨‍💻 Tech Support Engineer | MERN Stack Developer | Java Enthusiast
+
+Inquisitive IT graduate with professional experience in **Technical Support** and **Full-Stack Development**. I am passionate about building secure, user-centric applications, optimizing performance, and solving complex debugging challenges. 
+
+---
+
+### 💼 Professional Experience
+
+**Tech Support Engineer | Brototype** *(March 2025 – April 2026)*
+* Conducted coding assessments for 100+ students across MERN, Python, Dart, and Java.
+* Resolved 15+ technical queries daily involving **database optimization** and **API logic**.
+* Improved average test scores by 20% through data-driven personalized improvement strategies.
+
+**MERN Stack Developer Intern | Techmindz** *(August 2024 – January 2025)*
+* Developed 5+ responsive frontend modules using **React.js**.
+* Engineered high-fidelity interfaces ensuring 100% mobile responsiveness and cross-browser compatibility.
+
+**Java Programming Intern | Micro IIT** *(February 2025 – March 2025)*
+* Strengthened **OOP principles** and implemented efficient data structures (Stacks, Queues, HashMaps).
+* Focused on algorithmic challenges and computational logic.
 
 ---
 
 ### 🛠️ Technical Skills
 
-* [cite_start]**Languages:** C, C++, Python, Java [cite: 31, 32, 34]
-* [cite_start]**Web Development:** HTML, CSS, JavaScript [cite: 33]
-* [cite_start]**Specializations:** Malware Detection, Computer Vision (Face Recognition) [cite: 11, 14]
+* **Languages:** Dart, Python, Java, JavaScript, C, C++
+* **Web Development:** React.js, Node.js, Express.js, MongoDB (MERN), HTML5, CSS3, Bootstrap, Tailwind CSS
+* **Database & Tools:** SQL, MySQL | Git, GitHub, Postman, VS Code, Figma, Canva
+* **Core Concepts:** Data Structures & Algorithms (DSA), OOP, Malware Detection, Computer Vision
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🛡️ Malware Detection and Classification (2022-2023)
-* [cite_start]Developed a system to detect and classify malware into families using **Convolutional Neural Networks (CNN)** and **Random Forest**[cite: 11, 12].
-* [cite_start]Utilized image-based analysis for detection[cite: 12].
+#### 🛡️ Malware Detection and Classification
+* Detected and classified malware by converting binary files into grayscale images using **CNN** and **Random Forest** algorithms.
 
-#### 👤 Face Recognition with Liveness Detection (2021-2022)
-* [cite_start]Created a three-way security system for website logins[cite: 14, 15].
-* [cite_start]Implemented **Blink Eye Ratio Detection** to ensure user liveness[cite: 19].
-* [cite_start]Integrated OTP verification for enhanced security[cite: 18].
+#### 👤 Face Recognition with Liveness Detection
+* Built a three-way authentication system (Database + Face ID + OTP) featuring an **Eye Blink Ratio Detector** to prevent spoofing.
 
-#### 🌐 Web Projects (2023)
-* [cite_start]**Rock Paper Scissor Game Site** [cite: 26]
-* [cite_start]**Calculator Site** [cite: 24]
-* [cite_start]**First Portfolio Website** [cite: 22]
+#### 🌐 Web Application Portfolio
+* Developed interactive tools like a Rock-Paper-Scissors game and professional calculators focusing on **DOM manipulation** and responsive design.
 
 ---
 
 ### 🎓 Education
-* **B.Tech in Information Technology** (2019-2023) | Government Engineering College Palakkad | [cite_start]CGPA: 6.35 [cite: 28]
-* **Class XII** (2018-2019) | GHSS Pathiripala, Palakkad | [cite_start]83.83% [cite: 28]
+
+* **B.Tech in Information Technology** | GEC Palakkad (KTU) | **CGPA: 6.35**
+* **Higher Secondary (Class XII)** | GHSS Pathiripala | **83.83%**
 
 ---
 
-### 🏆 Achievements & Co-curriculars
-* [cite_start]**Social Quiz:** First Place in Sub District Level[cite: 38].
-* [cite_start]**Science Quiz:** Second Place in Sub District Level[cite: 36].
-* [cite_start]**Leadership:** Worked as a coordinator and volunteer for Arts and Tech fests[cite: 38].
-
----
-
-### 🗣️ Languages
-* [cite_start]English, Malayalam, Tamil, Hindi [cite: 40, 41, 42, 43]
+### 🏆 Languages
+* English, Malayalam, Tamil, Hindi
 
 ---
 
 ### 📫 Let's Connect!
-* [cite_start]**LinkedIn:** [linkedin.com/in/vishnu-p-r-b8b956156](https://www.linkedin.com/in/vishnu-p-r-b8b956156) [cite: 5]
-* [cite_start]**Email:** [vishnupr2001@gmail.com](mailto:vishnupr2001@gmail.com) [cite: 8]
-* [cite_start]**Portfolio:** [github.com/don3745](https://github.com/don3745) [cite: 7]
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-p-r-b8b956156) 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/don3745)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnupr2001@gmail.com)
+
+---
+*“Passionate about building secure systems and contributing to the evolving tech landscape.”*
